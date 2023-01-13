@@ -648,10 +648,10 @@ body.LightMode {
 
 .link_repo {
 	display: flex;
-	flex-direction: column;
-	gap: 3rem;
-	font-size: 24px;
+	gap: 1rem;
+	font-size: 20px;
 	text-align: center;
+	justify-content: center;
 	padding: 1.5rem;
 	color: var(--textcolor4);
 	background-color: var(--secondaryaltbg);
